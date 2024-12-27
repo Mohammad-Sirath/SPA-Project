@@ -59,7 +59,7 @@ function Panel() {
                       <Row>
                         {/* Card 1 */}
                         <Col sm={6} md={4} lg={3}>
-                          <Card className="mb-4 shadow-lg">
+                          <Card className="mb-4 box-shadow2">
                             <Card.Body>
                               <Card.Title>Articles</Card.Title>
                               <Card.Text>
@@ -73,7 +73,7 @@ function Panel() {
 
                         {/* Card 2 */}
                         <Col sm={6} md={4} lg={3}>
-                          <Card className="mb-4 shadow-lg">
+                          <Card className="mb-4 box-shadow1">
                             <Card.Body>
                               <Card.Title>Profile</Card.Title>
                               <Card.Text>
@@ -86,7 +86,7 @@ function Panel() {
 
                         {/* Card 3 */}
                         <Col sm={6} md={4} lg={3}>
-                          <Card className="mb-4 shadow-lg">
+                          <Card className="mb-4 box-shadow1">
                             <Card.Body>
                               <Card.Title>Settings</Card.Title>
                               <Card.Text>

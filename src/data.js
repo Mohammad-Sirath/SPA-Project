@@ -4,7 +4,7 @@ export let courseData = [
     title: "React course",
     text: "Master React with a project-based approach. Start from the basics and progress to advanced techniques",
     img: "https://www.infuy.com/wp-content/uploads/2015/05/blog-thumb-1.png.webp",
-    teacher: "Mohammad Hosseini",
+    teacher: "Mohammad Hossaini",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ export let courseData = [
     id: 3,
     title: "Js course",
     text: "Master JavaScript with a project-based approach. Start from the basics and progress to advanced techniques",
-    img: "https://wallpapers.com/images/hd/java-script-abstract-background-71c5ur6e0lv8w9ve.jpg",
+    img: "https://www.bacancytechnology.com/qanda/wp-content/uploads/2023/06/JavaScript-Move-Table-Column.png",
     teacher: "Abbas Rahimi",
   },
   {
